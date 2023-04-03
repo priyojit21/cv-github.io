@@ -1,0 +1,25 @@
+body{
+  background-color: #BCEAD5;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width: 5%;
+}
+img{
+  border: 5px solid yellow;
+}
+h1{
+  color: #66BFBF;
+  font-style: italic;
+  font-family: fantasy;
+}
+h3{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
